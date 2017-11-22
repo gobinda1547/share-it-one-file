@@ -1,2 +1,5 @@
 # share-it-one-file
-just creating the repository from online
+You can share your file just using this software. I made it using Java Socket.
+limitation --> this file can transfer only one file at a time.
+
+
